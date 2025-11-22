@@ -1,0 +1,308 @@
+1
+00:00:00,000 --> 00:00:00,915
+Test: should open the site and login with admin user
+
+2
+00:00:00,915 --> 00:00:02,288
+Giriş sayfasında olduğumuzu doğruluyoruz
+
+3
+00:00:02,288 --> 00:00:03,661
+Wait for page to load
+
+4
+00:00:03,661 --> 00:00:05,034
+Giriş formunu dolduruyoruz
+
+5
+00:00:05,034 --> 00:00:06,407
+Giriş formunu gönderiyoruz
+
+6
+00:00:06,407 --> 00:00:07,780
+Dashboard'a yönlendirmeyi bekliyoruz
+
+7
+00:00:07,780 --> 00:00:08,695
+İçeriği kontrol ediyoruz
+
+8
+00:00:08,695 --> 00:00:09,610
+Element seçiyoruz
+
+9
+00:00:09,610 --> 00:00:10,526
+Element seçiyoruz
+
+10
+00:00:10,526 --> 00:00:11,441
+Element seçiyoruz
+
+11
+00:00:11,441 --> 00:00:12,356
+İçeriği kontrol ediyoruz
+
+12
+00:00:12,814 --> 00:00:13,729
+Test: should navigate to Patients page and add a new patient
+
+13
+00:00:13,729 --> 00:00:15,102
+Önce giriş yapıyoruz
+
+14
+00:00:15,102 --> 00:00:16,475
+Dashboard'ın yüklenmesini bekliyoruz
+
+15
+00:00:16,475 --> 00:00:17,848
+Hastalar sayfasına gidiyoruz
+
+16
+00:00:17,848 --> 00:00:19,221
+"Yeni Hasta" butonuna tıklıyoruz
+
+17
+00:00:19,221 --> 00:00:20,594
+Hasta formunu dolduruyoruz
+
+18
+00:00:20,594 --> 00:00:21,967
+Formu gönderiyoruz
+
+19
+00:00:21,967 --> 00:00:23,340
+Modal'ın kapanmasını ve hastanın eklenmesini bekliyoruz
+
+20
+00:00:23,340 --> 00:00:24,255
+Sayfayı ziyaret ediyoruz
+
+21
+00:00:24,255 --> 00:00:25,170
+Element seçiyoruz
+
+22
+00:00:25,170 --> 00:00:26,086
+Element seçiyoruz
+
+23
+00:00:26,086 --> 00:00:27,001
+Element seçiyoruz
+
+24
+00:00:27,001 --> 00:00:27,916
+İçeriği kontrol ediyoruz
+
+25
+00:00:27,916 --> 00:00:28,832
+İçeriği kontrol ediyoruz
+
+26
+00:00:28,832 --> 00:00:29,747
+İçeriği kontrol ediyoruz
+
+27
+00:00:29,747 --> 00:00:30,662
+Element seçiyoruz
+
+28
+00:00:30,662 --> 00:00:31,578
+Element seçiyoruz
+
+29
+00:00:31,578 --> 00:00:32,493
+Element seçiyoruz
+
+30
+00:00:32,493 --> 00:00:33,408
+Element seçiyoruz
+
+31
+00:00:33,408 --> 00:00:34,324
+Element seçiyoruz
+
+32
+00:00:34,324 --> 00:00:35,239
+İçeriği kontrol ediyoruz
+
+33
+00:00:35,239 --> 00:00:36,154
+İçeriği kontrol ediyoruz
+
+34
+00:00:36,154 --> 00:00:37,069
+İçeriği kontrol ediyoruz
+
+35
+00:00:37,527 --> 00:00:38,442
+Test: should navigate to Departments page and add a new department
+
+36
+00:00:38,442 --> 00:00:39,815
+Önce giriş yapıyoruz
+
+37
+00:00:39,815 --> 00:00:41,188
+Dashboard'ın yüklenmesini bekliyoruz
+
+38
+00:00:41,188 --> 00:00:42,561
+Departmanlar sayfasına gidiyoruz
+
+39
+00:00:42,561 --> 00:00:43,934
+"Yeni Departman" butonuna tıklıyoruz
+
+40
+00:00:43,934 --> 00:00:45,307
+Departman formunu dolduruyoruz
+
+41
+00:00:45,307 --> 00:00:46,680
+Formu gönderiyoruz
+
+42
+00:00:46,680 --> 00:00:48,053
+Modal'ın kapanmasını ve departmanın eklenmesini bekliyoruz
+
+43
+00:00:48,053 --> 00:00:48,968
+Sayfayı ziyaret ediyoruz
+
+44
+00:00:48,968 --> 00:00:49,884
+Element seçiyoruz
+
+45
+00:00:49,884 --> 00:00:50,799
+Element seçiyoruz
+
+46
+00:00:50,799 --> 00:00:51,714
+Element seçiyoruz
+
+47
+00:00:51,714 --> 00:00:52,630
+İçeriği kontrol ediyoruz
+
+48
+00:00:52,630 --> 00:00:53,545
+İçeriği kontrol ediyoruz
+
+49
+00:00:53,545 --> 00:00:54,460
+İçeriği kontrol ediyoruz
+
+50
+00:00:54,460 --> 00:00:55,376
+Element seçiyoruz
+
+51
+00:00:55,376 --> 00:00:56,291
+Element seçiyoruz
+
+52
+00:00:56,291 --> 00:00:57,206
+İçeriği kontrol ediyoruz
+
+53
+00:00:57,206 --> 00:00:58,122
+İçeriği kontrol ediyoruz
+
+54
+00:00:58,122 --> 00:00:59,037
+İçeriği kontrol ediyoruz
+
+55
+00:00:59,494 --> 00:01:00,410
+Test: should complete full workflow: login -> add patient -> add department
+
+56
+00:01:00,410 --> 00:01:01,783
+Step 1: Login
+
+57
+00:01:01,783 --> 00:01:03,156
+Step 2: Add a new patient
+
+58
+00:01:03,156 --> 00:01:04,529
+Step 3: Add a new department
+
+59
+00:01:04,529 --> 00:01:05,444
+Sayfayı ziyaret ediyoruz
+
+60
+00:01:05,444 --> 00:01:06,359
+Element seçiyoruz
+
+61
+00:01:06,359 --> 00:01:07,275
+Element seçiyoruz
+
+62
+00:01:07,275 --> 00:01:08,190
+Element seçiyoruz
+
+63
+00:01:08,190 --> 00:01:09,105
+İçeriği kontrol ediyoruz
+
+64
+00:01:09,105 --> 00:01:10,021
+İçeriği kontrol ediyoruz
+
+65
+00:01:10,021 --> 00:01:10,936
+Element seçiyoruz
+
+66
+00:01:10,936 --> 00:01:11,851
+Element seçiyoruz
+
+67
+00:01:11,851 --> 00:01:12,766
+Element seçiyoruz
+
+68
+00:01:12,766 --> 00:01:13,682
+Element seçiyoruz
+
+69
+00:01:13,682 --> 00:01:14,597
+Element seçiyoruz
+
+70
+00:01:14,597 --> 00:01:15,512
+İçeriği kontrol ediyoruz
+
+71
+00:01:15,512 --> 00:01:16,428
+İçeriği kontrol ediyoruz
+
+72
+00:01:16,428 --> 00:01:17,343
+İçeriği kontrol ediyoruz
+
+73
+00:01:17,343 --> 00:01:18,258
+İçeriği kontrol ediyoruz
+
+74
+00:01:18,258 --> 00:01:19,174
+Element seçiyoruz
+
+75
+00:01:19,174 --> 00:01:20,089
+Element seçiyoruz
+
+76
+00:01:20,089 --> 00:01:21,004
+İçeriği kontrol ediyoruz
+
+77
+00:01:21,004 --> 00:01:21,920
+İçeriği kontrol ediyoruz
+

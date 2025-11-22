@@ -1,0 +1,220 @@
+1
+00:00:00,000 --> 00:00:00,617
+Test: should login and add a new doctor
+
+2
+00:00:00,617 --> 00:00:01,544
+localhost:5173';
+
+3
+00:00:01,544 --> 00:00:02,471
+Adım 1: Uygulamayı ziyaret ediyoruz
+
+4
+00:00:02,471 --> 00:00:03,398
+Sayfa yüklenmesi için bekle
+
+5
+00:00:03,398 --> 00:00:04,325
+Adım 2: Giriş sayfasında olduğumuzu doğruluyoruz
+
+6
+00:00:04,325 --> 00:00:05,252
+Adım 3: Giriş formunu dolduruyoruz
+
+7
+00:00:05,252 --> 00:00:06,179
+Adım 4: Giriş formunu gönderiyoruz
+
+8
+00:00:06,179 --> 00:00:07,106
+Adım 5: Dashboard'a yönlendirmeyi bekliyoruz
+
+9
+00:00:07,106 --> 00:00:08,033
+Adım 6: Doktorlar sayfasına gidiyoruz
+
+10
+00:00:08,033 --> 00:00:08,960
+Adım 7: "Yeni Doktor" butonuna tıklıyoruz
+
+11
+00:00:08,960 --> 00:00:09,887
+Adım 8: Doktor formunu dolduruyoruz
+
+12
+00:00:09,887 --> 00:00:10,814
+Name field (first text input)
+
+13
+00:00:10,814 --> 00:00:11,741
+Email field
+
+14
+00:00:11,741 --> 00:00:12,668
+Phone field
+
+15
+00:00:12,668 --> 00:00:13,594
+Specialization field (last text input)
+
+16
+00:00:13,594 --> 00:00:14,521
+Adım 9: Departman seçiyoruz
+
+17
+00:00:14,521 --> 00:00:15,448
+Adım 10: Formu gönderiyoruz
+
+18
+00:00:15,448 --> 00:00:16,375
+Adım 11: Modal'ın kapanmasını ve doktorun eklenmesini bekliyoruz
+
+19
+00:00:16,375 --> 00:00:16,993
+Sayfayı ziyaret ediyoruz
+
+20
+00:00:16,993 --> 00:00:17,611
+Bekliyoruz
+
+21
+00:00:17,611 --> 00:00:18,229
+Bekliyoruz
+
+22
+00:00:18,229 --> 00:00:18,847
+İçeriği kontrol ediyoruz
+
+23
+00:00:18,847 --> 00:00:19,465
+Bekliyoruz
+
+24
+00:00:19,465 --> 00:00:20,083
+Element seçiyoruz
+
+25
+00:00:20,083 --> 00:00:20,701
+Bekliyoruz
+
+26
+00:00:20,701 --> 00:00:21,319
+Element seçiyoruz
+
+27
+00:00:21,319 --> 00:00:21,937
+Bekliyoruz
+
+28
+00:00:21,937 --> 00:00:22,555
+Element seçiyoruz
+
+29
+00:00:22,555 --> 00:00:23,173
+Bekliyoruz
+
+30
+00:00:23,173 --> 00:00:23,791
+Bekliyoruz
+
+31
+00:00:23,791 --> 00:00:24,409
+İçeriği kontrol ediyoruz
+
+32
+00:00:24,409 --> 00:00:25,027
+Bekliyoruz
+
+33
+00:00:25,027 --> 00:00:25,645
+İçeriği kontrol ediyoruz
+
+34
+00:00:25,645 --> 00:00:26,262
+Bekliyoruz
+
+35
+00:00:26,262 --> 00:00:26,880
+Bekliyoruz
+
+36
+00:00:26,880 --> 00:00:27,498
+İçeriği kontrol ediyoruz
+
+37
+00:00:27,498 --> 00:00:28,116
+Bekliyoruz
+
+38
+00:00:28,116 --> 00:00:28,734
+İçeriği kontrol ediyoruz
+
+39
+00:00:28,734 --> 00:00:29,352
+Bekliyoruz
+
+40
+00:00:29,352 --> 00:00:29,970
+Element seçiyoruz
+
+41
+00:00:29,970 --> 00:00:30,588
+Bekliyoruz
+
+42
+00:00:30,588 --> 00:00:31,206
+Element seçiyoruz
+
+43
+00:00:31,206 --> 00:00:31,824
+Bekliyoruz
+
+44
+00:00:31,824 --> 00:00:32,442
+Element seçiyoruz
+
+45
+00:00:32,442 --> 00:00:33,060
+Bekliyoruz
+
+46
+00:00:33,060 --> 00:00:33,678
+Element seçiyoruz
+
+47
+00:00:33,678 --> 00:00:34,296
+Bekliyoruz
+
+48
+00:00:34,296 --> 00:00:34,914
+Element seçiyoruz
+
+49
+00:00:34,914 --> 00:00:35,532
+Bekliyoruz
+
+50
+00:00:35,532 --> 00:00:36,150
+İçeriği kontrol ediyoruz
+
+51
+00:00:36,150 --> 00:00:36,768
+Bekliyoruz
+
+52
+00:00:36,768 --> 00:00:37,386
+İçeriği kontrol ediyoruz
+
+53
+00:00:37,386 --> 00:00:38,004
+Bekliyoruz
+
+54
+00:00:38,004 --> 00:00:38,622
+İçeriği kontrol ediyoruz
+
+55
+00:00:38,622 --> 00:00:39,240
+Bekliyoruz
+

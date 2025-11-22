@@ -1,0 +1,56 @@
+1
+00:00:00,000 --> 00:00:03,551
+Giriş yapılıyor
+
+2
+00:00:03,551 --> 00:00:05,919
+E-posta adresi giriliyor
+
+3
+00:00:05,919 --> 00:00:08,288
+Şifre giriliyor
+
+4
+00:00:08,288 --> 00:00:11,839
+Giriş butonuna tıklanıyor
+
+5
+00:00:11,839 --> 00:00:15,391
+Dashboard sayfasına yönlendiriliyor
+
+6
+00:00:15,391 --> 00:00:18,943
+Doktorlar sayfasına gidiliyor
+
+7
+00:00:18,943 --> 00:00:21,311
+Yeni doktor butonuna tıklanıyor
+
+8
+00:00:21,311 --> 00:00:23,679
+Doktor adı giriliyor
+
+9
+00:00:23,679 --> 00:00:26,047
+Doktor e-posta adresi giriliyor
+
+10
+00:00:26,047 --> 00:00:28,415
+Doktor telefon numarası giriliyor
+
+11
+00:00:28,415 --> 00:00:30,783
+Doktor uzmanlık alanı giriliyor
+
+12
+00:00:30,783 --> 00:00:33,152
+Departman seçiliyor
+
+13
+00:00:33,152 --> 00:00:37,887
+Form gönderiliyor
+
+14
+00:00:37,887 --> 00:00:41,439
+Doktor başarıyla eklendi
+
